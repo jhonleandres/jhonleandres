@@ -17,9 +17,9 @@ My name is Jhonleandres (Brazil). I am currently developing with NodeJS, ReactJS
 - Design: Tailwindcss
 - Other tools: Linux;
 
-## 💻 My Development Everionment:
+## My Development Everionment:
 - System Operation: Linux Mint 20
 - Terminal: Bash in Linux/GNU
 - Editor: VSCode
 - Most used tools: Git, Insomnia
-- Virtualization Environment: Docker, Docker-Compose
+- Virtualization: Docker
